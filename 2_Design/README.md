@@ -3,3 +3,8 @@
 
 ## Structural Diagram
 ![new led](https://user-images.githubusercontent.com/94593380/144365319-57aea20f-ec65-4a58-8dee-66065f649d5c.jpg)
+
+## Block Diagram
+![new led (2)](https://user-images.githubusercontent.com/94593380/144367291-f8aca814-e73a-44d1-9df0-c49f7c53807c.jpg)
+
+
