@@ -7,4 +7,7 @@
 ## Block Diagram
 ![new led (2)](https://user-images.githubusercontent.com/94593380/144367291-f8aca814-e73a-44d1-9df0-c49f7c53807c.jpg)
 
+## Simulation
+![led switch off](https://user-images.githubusercontent.com/94593380/144378910-61bc68ec-02ab-4931-b12d-ebf28b4608ec.JPG)
+
 
